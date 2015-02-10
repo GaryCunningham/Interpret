@@ -1,0 +1,503 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" GroupingSetting="Alphabetical" MembersFormat="FullSignature">
+  <Class Name="InstantGuiButton" Collapsed="true">
+    <Position X="0.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAQ=</HashCode>
+      <FileName>Assets\InstantGui\Scripts\Elements\InstantGuiButton.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="InstantGuiElementsList" Collapsed="true">
+    <Position X="5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAgAAAAJAIAAAAAAAAAAAAAAAEAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\InstantGui\Scripts\Elements\InstantGuiElementsList.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="InstantGuiGauge" Collapsed="true">
+    <Position X="9.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAAAAQAAAAAAAAAAAAQAQAACAEAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\InstantGui\Scripts\Elements\InstantGuiGauge.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="InstantGuiInputText" Collapsed="true">
+    <Position X="14" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAECAgAAQAAAAAEEAAAgAiAAAAAAAAAgAABBAAAAEAQ=</HashCode>
+      <FileName>Assets\InstantGui\Scripts\Elements\InstantGuiInputText.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="InstantGuiList" Collapsed="true">
+    <Position X="16.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ARAAAAAAAAAAQJAAAAAAAAAQAAAAEABEAAAEigAAAAQ=</HashCode>
+      <FileName>Assets\InstantGui\Scripts\Elements\InstantGuiList.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="InstantGuiPopup" Collapsed="true">
+    <Position X="18.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAAAAAAAAAAABAAAAAAAAAQAAAAAAAAgAAAAQ=</HashCode>
+      <FileName>Assets\InstantGui\Scripts\Elements\InstantGuiPopup.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="InstantGuiSlider" Collapsed="true">
+    <Position X="20.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEEAIAAIQACAAQAAAAAAAAAAggCAAAAIAAAAAAQQ=</HashCode>
+      <FileName>Assets\InstantGui\Scripts\Elements\InstantGuiSlider.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="InstantGuiTabs" Collapsed="true">
+    <Position X="23" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQCAAAAAAAAAAAgAAAAAAAAAAAAAAAAgAABAAgAAAgQ=</HashCode>
+      <FileName>Assets\InstantGui\Scripts\Elements\InstantGuiTabs.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="InstantGuiTextArea" Collapsed="true">
+    <Position X="2.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gACAAAAAAAEAAAQGAAABAAQACAAAAAAAEAAEggCAAAQ=</HashCode>
+      <FileName>Assets\InstantGui\Scripts\Elements\InstantGuiTextArea.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="InstantGuiToggle" Collapsed="true">
+    <Position X="7.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAAAAAAAAAAAAAAAAAgAAAAAAgAAAAAAAAAgQ=</HashCode>
+      <FileName>Assets\InstantGui\Scripts\Elements\InstantGuiToggle.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="InstantGuiWindow" Collapsed="true">
+    <Position X="11.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAIACAAEgAICAAgAAAAAAAAAAAQEAKAAAAAAAQ=</HashCode>
+      <FileName>Assets\InstantGui\Scripts\Elements\InstantGuiWindow.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="InstantGuiElementPos" Collapsed="true">
+    <Position X="25.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAIAAAhBgEgAACAAhAIABIAQAAAAAAAEIAgBE=</HashCode>
+      <FileName>Assets\InstantGui\Scripts\InstantGui.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="InstantGuiActivator" Collapsed="true">
+    <Position X="32.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAQAAAIAAABAAAAAAAQAAAAgAAAAAAAAAAAADCA=</HashCode>
+      <FileName>Assets\InstantGui\Scripts\InstantGui.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="InstantGui" Collapsed="true">
+    <Position X="30.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAEAIACAgAAQAQAAAAAAKAABgAAAAAACAIAAAQAA=</HashCode>
+      <FileName>Assets\InstantGui\Scripts\InstantGui.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="InstantGuiElement" Collapsed="true">
+    <Position X="11.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>GAeIAAEIGAUowIACEQAAQwwAAASEQUJsP4AQAgEBAAQ=</HashCode>
+      <FileName>Assets\InstantGui\Scripts\InstantGuiElement.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="InstantGuiFrame" Collapsed="true">
+    <Position X="27.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAQAAAAKCEIBAQEIACAASAAAAhAAAASiAAAAAAAAUQA=</HashCode>
+      <FileName>Assets\InstantGui\Scripts\InstantGuiFrame.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SubStyle" Collapsed="true">
+    <Position X="29" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAACACgAAAQAAAgAAAAAgAAAAABA=</HashCode>
+      <FileName>Assets\InstantGui\Scripts\InstantGuiStyle.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="InstantGuiStyle" Collapsed="true">
+    <Position X="29" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ADKACCgIgFACAIACAAIACAAAQQAEAEAIDJAgIABAAhQ=</HashCode>
+      <FileName>Assets\InstantGui\Scripts\InstantGuiStyle.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="InstantGuiStyleSet" Collapsed="true">
+    <Position X="30.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAgAAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\InstantGui\Scripts\InstantGuiStyleSet.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FileLoader" Collapsed="true">
+    <Position X="25.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAQAEACAQAAAAAAAAAAAAGQAAQCAAAAQAAAAABEA=</HashCode>
+      <FileName>Assets\Script\Database\FileLoader.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GlobalFunctions" Collapsed="true">
+    <Position X="27.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAgAAAAAAAAQAAAAAAAAAAAABAQIAAAAAAAAAE=</HashCode>
+      <FileName>Assets\Script\Database\GlobalFunctions.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GUIManager" Collapsed="true">
+    <Position X="29" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAiAAAAAA=</HashCode>
+      <FileName>Assets\Script\GUIManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DisplayColor" Collapsed="true">
+    <Position X="30.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAQACBAAAAAAIAAAAAEAAAAAAAAAABAAAAAAAA=</HashCode>
+      <FileName>Assets\Script\Kinect\KinectImgControllers\DisplayColor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DisplayDepth" Collapsed="true">
+    <Position X="32.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAICAAAAAAAIAAAAAAAAgAAIAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Script\Kinect\KinectImgControllers\DisplayDepth.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KinectModelControllerV2" Collapsed="true">
+    <Position X="25.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gASGAAVRACIECIAAIBADAAAgAAAAAAGhFImAYJEhIAA=</HashCode>
+      <FileName>Assets\Script\Kinect\KinectModelControllers\KinectModelControllerV2.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KinectPointController" Collapsed="true">
+    <Position X="27.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQCAAUBACAACIAAABADAAACAAAAAAEhFIGAYJABIAA=</HashCode>
+      <FileName>Assets\Script\Kinect\KinectModelControllers\KinectPointController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DepthWrapper" Collapsed="true">
+    <Position X="27.25" Y="0.5" Width="1.5" />
+    <NestedTypes>
+      <Struct Name="DepthWrapper.frameData" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Assets\Script\Kinect\KinectWrapper\DepthWrapper.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Struct>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>CEQAAAIAACBAgAAEAAgAIAQEEAAAAAAAIAACAAAAAAA=</HashCode>
+      <FileName>Assets\Script\Kinect\KinectWrapper\DepthWrapper.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DeviceOrEmulator" Collapsed="true">
+    <Position X="29" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAACAGAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAA=</HashCode>
+      <FileName>Assets\Script\Kinect\KinectWrapper\DeviceOrEmulator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KinectEmulator" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="32.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIwSAgAAASmACBAAAQAAKAAAAAAACkEAAAAAAgAAAQA=</HashCode>
+      <FileName>Assets\Script\Kinect\KinectWrapper\KinectEmulator.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="KinectRecorder" Collapsed="true">
+    <Position X="29" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AURAAAAAACBQAAAAABAAIAgMAAABAQAAAAAAIAAgABE=</HashCode>
+      <FileName>Assets\Script\Kinect\KinectWrapper\KinectRecorder.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KinectSensor" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="30.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>FIgQAhAQAAnACAEAgbAAIAAQAEHECkEAQAQAA0AAAFA=</HashCode>
+      <FileName>Assets\Script\Kinect\KinectWrapper\KinectSensor.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="SkeletonWrapper" Collapsed="true">
+    <Position X="27.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACRAAAAACClAQEAAAAAAMAAMAACAAAAkIAAAQAAARAA=</HashCode>
+      <FileName>Assets\Script\Kinect\KinectWrapper\SkeletonWrapper.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TakeScreenshot" Collapsed="true">
+    <Position X="30.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAgAAACAAAAAAAAAAIgAAAAAAAAAAQAAAAEAAAAI=</HashCode>
+      <FileName>Assets\Script\TakeScreenshot.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Kinect.Constants" Collapsed="true">
+    <Position X="25.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAEAAAAACAAAAgAAAAAAAAAAAAAAAAAIAAAI=</HashCode>
+      <FileName>Assets\Script\Kinect\KinectWrapper\KinectInterop.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Kinect.NuiImageBuffer" Collapsed="true">
+    <Position X="25.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAAAAAAABAAAAAAAAAAAAAACAAAAAQAAAAAA=</HashCode>
+      <FileName>Assets\Script\Kinect\KinectWrapper\KinectInterop.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Kinect.NativeMethods" Collapsed="true">
+    <Position X="32.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQAhAAAAAAAEACEQAACAAAAAAACAAAAAAAAAIIQAA=</HashCode>
+      <FileName>Assets\Script\Kinect\KinectWrapper\KinectInterop.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="Kinect.NuiStatusProc" Collapsed="true">
+    <Position X="25.5" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Script\Kinect\KinectWrapper\KinectInterop.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Kinect.NuiSkeletonData" Collapsed="true">
+    <Position X="30.75" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAEAAAAAAAAAAgBAABAAgAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Script\Kinect\KinectWrapper\KinectInterop.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Kinect.NuiSkeletonFrame" Collapsed="true">
+    <Position X="32.5" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAABAAAAAAAACAAAAABBAAAIAgAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Script\Kinect\KinectWrapper\KinectInterop.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Kinect.NuiTransformSmoothParameters" Collapsed="true">
+    <Position X="29" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAAAAAAAAACAAAAAAAAAAAAAAAgAAAAEAAAgAAA=</HashCode>
+      <FileName>Assets\Script\Kinect\KinectWrapper\KinectInterop.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Kinect.NuiSkeletonBoneOrientation" Collapsed="true">
+    <Position X="27.25" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQCAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAABAAA=</HashCode>
+      <FileName>Assets\Script\Kinect\KinectWrapper\KinectInterop.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Kinect.NuiSkeletonBoneRotation" Collapsed="true">
+    <Position X="29" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAA=</HashCode>
+      <FileName>Assets\Script\Kinect\KinectWrapper\KinectInterop.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Kinect.SerialVec4" Collapsed="true">
+    <Position X="29" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAQAhgAQAAAAA=</HashCode>
+      <FileName>Assets\Script\Kinect\KinectWrapper\KinectInterop.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Kinect.SerialMatrix4" Collapsed="true">
+    <Position X="32.5" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAQAAQAAAAQAA=</HashCode>
+      <FileName>Assets\Script\Kinect\KinectWrapper\KinectInterop.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Kinect.SerialSkeletonData" Collapsed="true">
+    <Position X="25.5" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAEAAAAAAAAAAgBAABAAgAAAAAAAAAQAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Script\Kinect\KinectWrapper\KinectInterop.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Kinect.SerialSkeletonFrame" Collapsed="true">
+    <Position X="27.25" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAABAAAAAAAACAAAAABBAAAIAgQAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Script\Kinect\KinectWrapper\KinectInterop.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Kinect.NuiImageViewArea" Collapsed="true">
+    <Position X="32.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAgAAAAAAAIAAAAAAABAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Script\Kinect\KinectWrapper\KinectInterop.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Kinect.NuiImageFrame" Collapsed="true">
+    <Position X="30.75" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABAAAQAAAAAAASAAAAAABCAAAgAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Script\Kinect\KinectWrapper\KinectInterop.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Kinect.ColorCust" Collapsed="true">
+    <Position X="27.25" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAoAQABAAAAAAA=</HashCode>
+      <FileName>Assets\Script\Kinect\KinectWrapper\KinectInterop.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Kinect.ColorBuffer" Collapsed="true">
+    <Position X="25.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Script\Kinect\KinectWrapper\KinectInterop.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Kinect.DepthBuffer" Collapsed="true">
+    <Position X="29" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Script\Kinect\KinectWrapper\KinectInterop.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Kinect.NuiLockedRect" Collapsed="true">
+    <Position X="25.5" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAIAAAAAAAAAAAEAAAAAAAAAAAAg=</HashCode>
+      <FileName>Assets\Script\Kinect\KinectWrapper\KinectInterop.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Kinect.rect" Collapsed="true">
+    <Position X="30.75" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAABAAAAAAAAgAAAAIAAAAAAAAAAAAgAA=</HashCode>
+      <FileName>Assets\Script\Kinect\KinectWrapper\KinectInterop.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Kinect.NuiSurfaceDesc" Collapsed="true">
+    <Position X="27.25" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAQAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Script\Kinect\KinectWrapper\KinectInterop.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Interface Name="Kinect.KinectInterface" Collapsed="true">
+    <Position X="27.25" Y="10" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAACAAAIEAAAAgBAAAAAAAACAAAgCAAgAAAAAA=</HashCode>
+      <FileName>Assets\Script\Kinect\KinectWrapper\KinectInterop.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Kinect.INuiFrameTexture" Collapsed="true">
+    <Position X="25.5" Y="10" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAAAAAAAAAAAAABAgAAAAAAAEAAABAAAAAAAA=</HashCode>
+      <FileName>Assets\Script\Kinect\KinectWrapper\KinectInterop.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Enum Name="InstantGuiGaugeAlign" Collapsed="true">
+    <Position X="27.25" Y="11" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAABAAAAAAAAgAAAAIAAAAAAAAAAAAgAA=</HashCode>
+      <FileName>Assets\InstantGui\Scripts\Elements\InstantGuiGauge.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="InstantGuiWindowScape" Collapsed="true">
+    <Position X="32.5" Y="11" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAACAAABAAAAAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\InstantGui\Scripts\Elements\InstantGuiWindow.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="MessageRecievers" Collapsed="true">
+    <Position X="25.5" Y="11.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAIAAAAAAAAAAAAAAAAAAgAgAAAAAAgAAAACAAAA=</HashCode>
+      <FileName>Assets\InstantGui\Scripts\InstantGui.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="AutoSetBorders" Collapsed="true">
+    <Position X="25.5" Y="11" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAACAAACAAACBAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\InstantGui\Scripts\InstantGuiStyle.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="InstantGuiTextEffect" Collapsed="true">
+    <Position X="30.75" Y="11" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAQAAAAAAAABAAAAAAAAAAIAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\InstantGui\Scripts\InstantGuiStyle.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="InstantGuiTextAligment" Collapsed="true">
+    <Position X="29" Y="11" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAgAAAAAAAAAABAAAAAAAAAQAAAAAAAYAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\InstantGui\Scripts\InstantGuiStyle.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Kinect.NuiInitializeFlags" Collapsed="true">
+    <Position X="32.5" Y="11.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAADAAAAAAA=</HashCode>
+      <FileName>Assets\Script\Kinect\KinectWrapper\KinectInterop.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Kinect.NuiSkeletonPositionIndex" Collapsed="true">
+    <Position X="27.25" Y="12.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAYBAGAAAIAIBpAAAAQIIBABFAEAAAACAAAAAAA=</HashCode>
+      <FileName>Assets\Script\Kinect\KinectWrapper\KinectInterop.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Kinect.NuiSkeletonPositionTrackingState" Collapsed="true">
+    <Position X="29" Y="12.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAIAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Script\Kinect\KinectWrapper\KinectInterop.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Kinect.NuiSkeletonTrackingState" Collapsed="true">
+    <Position X="30.75" Y="12.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAA=</HashCode>
+      <FileName>Assets\Script\Kinect\KinectWrapper\KinectInterop.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Kinect.NuiImageType" Collapsed="true">
+    <Position X="30.75" Y="11.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAACAAAAAAAAAAAAAAAAAgAAAAhAQAAAA=</HashCode>
+      <FileName>Assets\Script\Kinect\KinectWrapper\KinectInterop.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Kinect.NuiImageResolution" Collapsed="true">
+    <Position X="27.25" Y="11.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAEAAEACAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Script\Kinect\KinectWrapper\KinectInterop.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Kinect.NuiImageStreamFlags" Collapsed="true">
+    <Position X="29" Y="11.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAEAAAE=</HashCode>
+      <FileName>Assets\Script\Kinect\KinectWrapper\KinectInterop.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Kinect.NuiSkeletonFlags" Collapsed="true">
+    <Position X="25.5" Y="12.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAABAAAAAAAAAAAAAAAAAQAAgAAAAAAAgAAAA=</HashCode>
+      <FileName>Assets\Script\Kinect\KinectWrapper\KinectInterop.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
