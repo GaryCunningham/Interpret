@@ -82,19 +82,19 @@
  <HintPath>G:/Program Files/Unity/Unity4_6_1/Editor/Data/UnityExtensions/Unity/GUISystem/4.6.1/UnityEngine.UI.dll</HintPath>
  </Reference>
  <Reference Include="Mono.Data.SqliteClient">
- <HintPath>G:/Software Development 4 - Semester 1/Project 4/Unity/Assets/DLL/Mono.Data.SqliteClient.dll</HintPath>
+ <HintPath>C:/Users/Gary/SkyDrive/A00164314_ISLProject/GitHub/Interpret/Unity/Assets/DLL/Mono.Data.SqliteClient.dll</HintPath>
  </Reference>
  <Reference Include="System.Configuration">
- <HintPath>G:/Software Development 4 - Semester 1/Project 4/Unity/Assets/DLL/System.Configuration.dll</HintPath>
+ <HintPath>C:/Users/Gary/SkyDrive/A00164314_ISLProject/GitHub/Interpret/Unity/Assets/DLL/System.Configuration.dll</HintPath>
  </Reference>
  <Reference Include="System.Data">
- <HintPath>G:/Software Development 4 - Semester 1/Project 4/Unity/Assets/DLL/System.Data.dll</HintPath>
+ <HintPath>C:/Users/Gary/SkyDrive/A00164314_ISLProject/GitHub/Interpret/Unity/Assets/DLL/System.Data.dll</HintPath>
  </Reference>
  <Reference Include="System.EnterpriseServices">
- <HintPath>G:/Software Development 4 - Semester 1/Project 4/Unity/Assets/DLL/System.EnterpriseServices.dll</HintPath>
+ <HintPath>C:/Users/Gary/SkyDrive/A00164314_ISLProject/GitHub/Interpret/Unity/Assets/DLL/System.EnterpriseServices.dll</HintPath>
  </Reference>
  <Reference Include="System.Security">
- <HintPath>G:/Software Development 4 - Semester 1/Project 4/Unity/Assets/DLL/System.Security.dll</HintPath>
+ <HintPath>C:/Users/Gary/SkyDrive/A00164314_ISLProject/GitHub/Interpret/Unity/Assets/DLL/System.Security.dll</HintPath>
  </Reference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
