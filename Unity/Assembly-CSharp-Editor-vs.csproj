@@ -59,7 +59,7 @@
      <Compile Include="Assets\InstantGui\Scripts\Editor\InstantGuiElementEditor.cs" />
      <Compile Include="Assets\InstantGui\Scripts\Editor\InstantGuiInspector.cs" />
      <Compile Include="Assets\InstantGui\Scripts\Editor\InstantGuiStyleSetEditor.cs" />
-     <None Include="Assets\Asset\Shaders\Normal-Diffuse.shader" />
+     <None Include="Assets\Shaders\Normal-Diffuse.shader" />
  <Reference Include="UnityEngine.UI">
  <HintPath>G:/Program Files/Unity/Unity4_6_1/Editor/Data/UnityExtensions/Unity/GUISystem/4.6.1/UnityEngine.UI.dll</HintPath>
  </Reference>

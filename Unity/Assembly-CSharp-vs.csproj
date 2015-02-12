@@ -64,7 +64,9 @@
      <Compile Include="Assets\InstantGui\Scripts\InstantGuiStyleSet.cs" />
      <Compile Include="Assets\Script\Database\FileLoader.cs" />
      <Compile Include="Assets\Script\Database\GlobalFunctions.cs" />
-     <Compile Include="Assets\Script\GUIManager.cs" />
+     <Compile Include="Assets\Script\GUI\GUIManager.cs" />
+     <Compile Include="Assets\Script\GUI\TabController.cs" />
+     <Compile Include="Assets\Script\GUI\TakeScreenshot.cs" />
      <Compile Include="Assets\Script\Kinect\KinectImgControllers\DisplayColor.cs" />
      <Compile Include="Assets\Script\Kinect\KinectImgControllers\DisplayDepth.cs" />
      <Compile Include="Assets\Script\Kinect\KinectModelControllers\KinectModelControllerV2.cs" />
@@ -76,8 +78,7 @@
      <Compile Include="Assets\Script\Kinect\KinectWrapper\KinectRecorder.cs" />
      <Compile Include="Assets\Script\Kinect\KinectWrapper\KinectSensor.cs" />
      <Compile Include="Assets\Script\Kinect\KinectWrapper\SkeletonWrapper.cs" />
-     <Compile Include="Assets\Script\TakeScreenshot.cs" />
-     <None Include="Assets\Asset\Shaders\Normal-Diffuse.shader" />
+     <None Include="Assets\Shaders\Normal-Diffuse.shader" />
  <Reference Include="UnityEngine.UI">
  <HintPath>G:/Program Files/Unity/Unity4_6_1/Editor/Data/UnityExtensions/Unity/GUISystem/4.6.1/UnityEngine.UI.dll</HintPath>
  </Reference>
